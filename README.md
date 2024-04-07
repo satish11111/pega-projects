@@ -29,6 +29,8 @@ please find below attachment
 Adding new Validation using validation rule 
 
 ![image](https://github.com/satish11111/pega-projects/assets/42717775/5f1f9fd5-32d5-4bb0-952f-ee452889304f)
+![image](https://github.com/satish11111/pega-projects/assets/42717775/537ca74e-4e11-461e-ab3a-cdf699e6adbf)
+
 
 To enhance the functionality of the hotel management system, we can introduce a new data object tailored for rooms. This new data object allows seamless insertion of room-related data into the database. We achieve this by creating properties that reference data, thereby mapping values efficiently.
 
